@@ -58,3 +58,6 @@ uLauncher:
 
 VS Code:
 - Disable telemetry
+
+Neovim:
+- LazyVim Starter
