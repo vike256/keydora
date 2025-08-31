@@ -7,4 +7,5 @@ sudo dnf update -y --refresh
 ./scripts/set-gnome-extensions.sh
 ./scripts/install-software.sh
 ./scripts/set-gnome-hotkeys.sh
+./scripts/install-nerdfont.sh
 ./scripts/apply-configs.sh
