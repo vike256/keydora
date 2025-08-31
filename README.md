@@ -3,7 +3,6 @@ A keyboard-first Fedora config
 
 ## TODO
 
-- Turn off ulauncher indicator
 - Add tmux config
 - Add lazyvim to neovim
 - Do not restore text editor session
