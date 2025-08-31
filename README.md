@@ -8,7 +8,6 @@ A keyboard-first Fedora config
 - Do not restore text editor session
 - Change CapsLock to function as Control and Shift+CapsLock to function as CapsLock
 - Add "alias n='nvim'" to .bashrc
-- Launch browser with Super+B
 
 ## Changes
 
@@ -37,6 +36,7 @@ Install:
 - Close windows with Super+Q
 - Alt+Tab switches windows instead of applications
 - Super+F toggles fullscreen
+- Super+B launches browser
 - Super+E launches home folder
 - Super+T launches terminal
 - Super+Space launches ulauncher

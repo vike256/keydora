@@ -13,6 +13,9 @@ gsettings set org.gnome.desktop.wm.keybindings toggle-fullscreen "['<Super>f']"
 # Super+E to launch home folder
 gsettings set org.gnome.settings-daemon.plugins.media-keys home "['<Super>e']"
 
+# Super+B to launch browser
+gsettings set org.gnome.settings-daemon.plugins.media-keys www "['<Super>b']"
+
 # Setup custom keybindings
 gsettings set org.gnome.settings-daemon.plugins.media-keys custom-keybindings "[
   '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/',
