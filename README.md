@@ -13,42 +13,42 @@ A keyboard-first Fedora config
 - Do not restore text editor session
 - Change CapsLock to function as Control and Shift+CapsLock to function as CapsLock
 - Add "alias n='nvim'" to .bashrc
+- Dash to Panel panel size 32px
 
 ## Changes
 
-### set-gnome-settings.sh
+### Gnome
 - Enable Dark Mode
 - Unpin apps
 - Show week numbers on calendar
 - Disable animations
 - Show hidden files in explorer
 - Show battery percentage
+- 4 workspaces
 
-### set-gnome-extensions.sh
+### Gnome extensions
 - Install AppIndicator
 - Install Dash to Panel
-  - Isolate workspaces: true
-  - Change panel elements positions
+ - Isolate workspaces: true
+ - Change panel elements positions
 
-### install-software.sh
-Install:
+### Install software
 - gnome-tweaks
 - neovim
 - fzf
 - ulauncher
 
-### set-gnome-hotkeys.sh
+### Hotkeys
 - Super+Q closes window
 - Super+F toggles fullscreen
 - Super+B launches browser
 - Super+E launches home folder
 - Super+T launches terminal
 - Super+Space launches ulauncher
-- Alt+Tab switches windows instead of applications
-- Disable switching input sources
-- Dynamic workspaces: false
 - Super+1-4 to switch to workspace
 - Super+Shift+1-4 to move window to workspace
+- Alt+Tab switches windows instead of applications
+- Disable switching input sources
 
 ### apply-configs.sh
 uLauncher:
