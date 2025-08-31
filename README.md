@@ -9,7 +9,6 @@ A keyboard-first Fedora config
 ## TODO
 
 - Add tmux config
-- Add lazyvim to neovim
 - Do not restore text editor session
 - Change CapsLock to function as Control and Shift+CapsLock to function as CapsLock
 - Add "alias n='nvim'" to .bashrc
