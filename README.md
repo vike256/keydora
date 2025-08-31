@@ -1,6 +1,11 @@
 # Keydora
 A keyboard-first Fedora config
 
+## Usage
+`git clone https://github.com/vike256/keydora.git`
+`cd keydora`
+`./setup.sh`
+
 ## TODO
 
 - Add tmux config
@@ -33,13 +38,13 @@ Install:
 - ulauncher
 
 ### set-gnome-hotkeys.sh
-- Close windows with Super+Q
-- Alt+Tab switches windows instead of applications
+- Super+Q closes window
 - Super+F toggles fullscreen
 - Super+B launches browser
 - Super+E launches home folder
 - Super+T launches terminal
 - Super+Space launches ulauncher
+- Alt+Tab switches windows instead of applications
 - Disable switching input sources
 - Dynamic workspaces: false
 - Super+1-4 to switch to workspace
