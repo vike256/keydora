@@ -6,3 +6,4 @@ sudo dnf update -y --refresh
 ./scripts/set-gnome-settings.sh
 ./scripts/set-gnome-extensions.sh
 ./scripts/set-gnome-hotkeys.sh
+./scripts/install-gnome-tweaks.sh

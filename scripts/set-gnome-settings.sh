@@ -6,4 +6,6 @@ gsettings set org.gnome.shell favorite-apps "[]"
 
 # Reveal week numbers in the Gnome calendar
 gsettings set org.gnome.desktop.calendar show-weekdate true
+
+# Disable animations
 gsettings set org.gnome.desktop.interface enable-animations false
