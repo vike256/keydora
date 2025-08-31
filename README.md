@@ -14,6 +14,7 @@ A keyboard-first Fedora config
 - Change CapsLock to function as Control and Shift+CapsLock to function as CapsLock
 - Add "alias n='nvim'" to .bashrc
 - Dash to Panel panel size 32px
+- Apply nerdfont to ptyxis
 
 ## Changes
 
