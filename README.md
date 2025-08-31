@@ -33,10 +33,11 @@ A keyboard-first Fedora config
  - Change panel elements positions
 
 ### Install software
-- gnome-tweaks
-- neovim
+- VS Code
+- Neovim
+- Gnome Tweaks
 - fzf
-- ulauncher
+- uLauncher
 
 ### Hotkeys
 - Super+Q closes window
@@ -54,3 +55,6 @@ A keyboard-first Fedora config
 uLauncher:
 - Enable Dark Mode
 - Add shortcuts for Qwant and DuckDuckGo
+
+VS Code:
+- Disable telemetry
