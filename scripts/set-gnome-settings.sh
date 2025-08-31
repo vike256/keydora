@@ -11,5 +11,4 @@ gsettings set org.gnome.desktop.calendar show-weekdate true
 gsettings set org.gnome.desktop.interface enable-animations false
 
 # Show hidden files in file explorer
-gsettings set org.gnome.nautilus.preferences show-hidden-files true
-
+gsettings set org.gtk.gtk4.Settings.FileChooser show-hidden true
