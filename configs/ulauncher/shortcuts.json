@@ -28,5 +28,25 @@
         "is_default_search": true,
         "run_without_argument": false,
         "added": 1756656594.0891924
+    },
+    "f63daacb-4c33-4f3c-9daa-507a041c9e0f": {
+        "id": "f63daacb-4c33-4f3c-9daa-507a041c9e0f",
+        "name": "Qwant",
+        "keyword": "q",
+        "cmd": "https://qwant.com/?q=%s",
+        "icon": "~/Downloads/qwant.svg",
+        "is_default_search": false,
+        "run_without_argument": false,
+        "added": 1756658471.3504286
+    },
+    "796eb7b4-07f1-4381-be2b-00f5d221413c": {
+        "id": "796eb7b4-07f1-4381-be2b-00f5d221413c",
+        "name": "DuckDuckGo",
+        "keyword": "d",
+        "cmd": "https://duckduckgo.com/?q=%s",
+        "icon": "~/Downloads/ddg.png",
+        "is_default_search": false,
+        "run_without_argument": false,
+        "added": 1756658597.3240685
     }
 }
