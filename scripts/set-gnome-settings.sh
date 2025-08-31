@@ -12,3 +12,6 @@ gsettings set org.gnome.desktop.interface enable-animations false
 
 # Show hidden files in file explorer
 gsettings set org.gtk.gtk4.Settings.FileChooser show-hidden true
+
+# Show battery percentage
+gsettings set org.gnome.desktop.interface show-battery-percentage true

@@ -19,6 +19,7 @@ A keyboard-first Fedora config
 - Show week numbers on calendar
 - Disable animations
 - Show hidden files in explorer
+- Show battery percentage
 
 ### set-gnome-extensions.sh
 - Install AppIndicator
