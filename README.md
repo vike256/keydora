@@ -6,9 +6,6 @@ A keyboard-first Fedora config
 ### Software
 ulauncher
 - show indicator icon OFF
-- remove google, stackoverflow, wikipedia
-- add qwant
-
 
 ### Configs
 .config/tmux (git pull)
