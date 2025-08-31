@@ -1,4 +1,9 @@
-=== Software ===
+# Keydora
+A keyboard-first Fedora config
+
+## TODO
+
+### Software
 sudo dnf install -y neovim python3-neovim
 sudo dnf install tmux
 sudo dnf install fzf
@@ -9,18 +14,16 @@ ulauncher
 - add qwant
 
 
-
-=== Config ===
+### Configs
 .config/tmux (git pull)
 .config/nvim (just lazy? DHH)
 
 
-=== Gnome ===
-
+### Gnome
 -- Keybinds
 CapsLock = CTRL, Shift+CapsLock = CapsLock
 gsettings set org.gnome.desktop.interface enable-animations false
 
 
-=== Bash ===
+### .bashrc
 alias n='nvim'
