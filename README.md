@@ -2,9 +2,9 @@
 A keyboard-first Fedora config
 
 ## Usage
-`git clone https://github.com/vike256/keydora.git`
-`cd keydora`
-`./setup.sh`
+`git clone https://github.com/vike256/keydora.git`  
+`cd keydora`  
+`./setup.sh`  
 
 ## TODO
 
