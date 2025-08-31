@@ -50,7 +50,7 @@ A keyboard-first Fedora config
 - Alt+Tab switches windows instead of applications
 - Disable switching input sources
 
-### apply-configs.sh
+### Configs
 uLauncher:
 - Enable Dark Mode
 - Add shortcuts for Qwant and DuckDuckGo
