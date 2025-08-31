@@ -4,10 +4,6 @@ A keyboard-first Fedora config
 ## TODO
 
 ### Software
-sudo dnf install -y neovim python3-neovim
-sudo dnf install tmux
-sudo dnf install fzf
-
 ulauncher
 - show indicator icon OFF
 - remove google, stackoverflow, wikipedia
@@ -17,6 +13,8 @@ ulauncher
 ### Configs
 .config/tmux (git pull)
 .config/nvim (just lazy? DHH)
+
+Text editor do not restore session
 
 
 ### Gnome
